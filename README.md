@@ -57,6 +57,12 @@ python3 binary_to_complex.py --file <filename.dat> --savecomplex --plot --savepl
 
 **NOTE** you can use --folder instead of --file to specify a directory to this script, in this case the script automatically finds all the .dat files inside that directory and process them with respect to --savecomplex and ----saveplot options (the --plot won't work when using --folder).
 
+## Extract from our License
 
+Any use of the Software which results in an academic publication or
+other publication which includes a bibliography must include
+citations to the following:
+
+**TODO**
 
 
