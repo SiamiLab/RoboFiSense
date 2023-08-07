@@ -1,6 +1,15 @@
 # CSI Collection
 CSI Collection using Nexmon CSI Project
 
+</br>
+
+<p align="center">
+<img src="resources/CSIPlot.jpeg" alt="CSIPlot.jpeg"
+title="CSIPlot.jpeg" width="900" align="middle" />
+</p>
+
+</br>
+
 ## Passive Sniffing
 To start collecting CSI use the [Nexmon CSI project](http://https://github.com/seemoo-lab/nexmon_csi "Nexmon CSI project") and install it on a Raspberry Pi 4.
 
@@ -47,6 +56,7 @@ python3 binary_to_complex.py --file <filename.dat> --savecomplex --plot --savepl
  - --saveplot saves the plot in a jpeg file in your workspace
 
 **NOTE** you can use --folder instead of --file to specify a directory to this script, in this case the script automatically finds all the .dat files inside that directory and process them with respect to --savecomplex and ----saveplot options (the --plot won't work when using --folder).
+
 
 
 
