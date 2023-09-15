@@ -11,7 +11,7 @@ The RoboFiSense is a comprehensive dataset bundle that provides Channel State In
 The RoboFiSense dataset is organized in a hierarchical structure, with each location of the sniffers represented by a distinct directory. Within each of these directories, there are eight subdirectories, each corresponding to different movements of the robot. Each movement folder further segregates the data based on the speeds at which the robot arm is moving. Each speed folder encapsulates all the Channel State Information (CSI) samples from the robot. Please refer to the accompanying diagram for a visual representation of this structure.
 
 <p align="center">
-<img src="https://github.com/SiamiLab/RoboFiSense/blob/main/resources/Dataset%20Directory.png?raw=true" alt="DatasetHierarchy.png"
+<img src="resources/DatasetHierarchy.png" alt="DatasetHierarchy.png"
 title="DatasetHierarchy.png" width="550" align="middle" />
 </p>
 
@@ -21,21 +21,21 @@ The CSI samples are deeply investigated in the next section.
 Each sample of the dataset contains a three files:
  - `.dat` fille: This is the raw binary Channel State Information (CSI) data stored in a Python dictionary format in the following format, saved using the *pickle* module. The byte objects contained within this file represent the binary data extracted via the Nexmon project. For additional information, please refer to this [link](http://https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92#analyzing-the-csi "link").
 <p align="center">
-<img src="https://github.com/SiamiLab/RoboFiSense/blob/main/resources/DAT%20Dictionary.png?raw=true" alt="CSISamples_dat.png"
+<img src="resources/CSISamples_dat.png?raw=true" alt="CSISamples_dat.png"
 title="CSISamples_dat.png" width="550" align="middle" />
 </p>
 
  - `.cmplx` fille: This file is a Python list, also saved using the *pickle* module. It decodes crucial information from the .dat file and presents it in a structured format.
 
 <p align="center">
-<img src="https://github.com/SiamiLab/RoboFiSense/blob/main/resources/CMPLX%20Dictionary.png?raw=true" alt="CSISamples_cmplx.png"
+<img src="resources/CSISamples_cmplx.png" alt="CSISamples_cmplx.png"
 title="CSISamples_cmplx.png" width="550" align="middle" />
 </p>
 
  - `.jpeg` fille: This file represents a plot illustrating the magnitude of the subcarrier values over time. It specifically excludes all unused and pilot subcarriers for clarity and precision.
  
 <p align="center">
-<img src="https://github.com/SiamiLab/RoboFiSense/blob/main/resources/CSIPlot.jpeg?raw=true" alt="CSIPlot.jpeg"
+<img src="resources/CSIPlot.jpeg" alt="CSIPlot.jpeg"
 title="CSIPlot.jpeg" width="500" align="middle" />
 </p>
 
