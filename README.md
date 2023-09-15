@@ -45,6 +45,10 @@ title="CSIPlot.jpeg" width="820" align="middle" />
 
 </br>
 
+## Examples
+ - You can find an example of how to read the `.cmplx` files and plot them in [this notebook](Examples/subcarrier_plot.ipynb).
+
+
 ## How to collect CSI data
 
 ### Passive Sniffing
