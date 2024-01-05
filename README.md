@@ -2,7 +2,8 @@
 The RoboFiSense is a comprehensive dataset bundle that provides Channel State Information (CSI) in the context of a Franka Emika robotic arm's operations. This dataset offers an extensive range of data pertaining to the various movements executed by the robot. In addition, RoboFiSense provides introductory codes that facilitate the reading and analysis of the dataset. Furthermore, it includes the specific codes utilized in the data extraction process. This resource is designed to support and enhance research and development activities in the field of WiFi sensing and robotics.
 
 
-<p  align="center"> <b><code style="color : red">The dataset will become available once the "RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing" gets accepted.</code></b> </p>
+<p  align="center"> <b><code style="color : red">In case of using the dataset please cite our paper,"RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".
+How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345. </code></b> </p>
 
 
 
