@@ -3,14 +3,9 @@ The RoboFiSense is a comprehensive dataset bundle that provides Channel State In
 
 
 <p align="center"><b><code style="color : red">
-            In case of using the dataset please cite our paper,
-            <a href="https://arxiv.org/abs/2312.15345" style="color: blue;">
-                "RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".
-            </a>
-            How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.
-        </code>
-    </b>
-</p>
+            In case of using the dataset please cite our paper, <a href="https://arxiv.org/abs/2312.15345" style="color: blue;">
+                "RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".</a>
+            How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.</code></b></p>
 
 
 
