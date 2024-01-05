@@ -96,8 +96,9 @@ python3 binary_to_complex.py --file <filename.dat> --savecomplex --plot --savepl
 
 ## Extract from our License
 
-<p align="center"><b><code style="color : red">In case of using the dataset please cite our paper, <a href="https://arxiv.org/abs/2312.15345" style="color: blue;">"RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".</a>
-            
-            How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.</code></b></p>
+In case of using the dataset please cite our paper, ["RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing"]([http://https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92#analyzing-the-csi](https://arxiv.org/abs/2312.15345) "link").
+```
+How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.
+```
 
 
