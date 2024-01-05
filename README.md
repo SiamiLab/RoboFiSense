@@ -2,13 +2,6 @@
 The RoboFiSense is a comprehensive dataset bundle that provides Channel State Information (CSI) in the context of a Franka Emika robotic arm's operations. This dataset offers an extensive range of data pertaining to the various movements executed by the robot. In addition, RoboFiSense provides introductory codes that facilitate the reading and analysis of the dataset. Furthermore, it includes the specific codes utilized in the data extraction process. This resource is designed to support and enhance research and development activities in the field of WiFi sensing and robotics.
 
 
-<p align="center"><b><code style="color : red">In case of using the dataset please cite our paper, <a href="https://arxiv.org/abs/2312.15345" style="color: blue;">"RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".</a>
-            
-            How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.</code></b></p>
-
-
-
-
 
 https://github.com/SiamiLab/RoboFiSense/assets/22102109/4305f6e2-4143-4499-b160-ef8ffd60b90b
 
@@ -103,10 +96,8 @@ python3 binary_to_complex.py --file <filename.dat> --savecomplex --plot --savepl
 
 ## Extract from our License
 
-Any use of the Software that results in an academic publication or
-other publication which includes a bibliography must include
-citations to the following:
-
-**TODO: To be added**
+<p align="center"><b><code style="color : red">In case of using the dataset please cite our paper, <a href="https://arxiv.org/abs/2312.15345" style="color: blue;">"RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing".</a>
+            
+            How to cite: Zandi, R., Behzad, K., Motamedi, E., Salehinejad, H., & Siami, M. (2023). RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing. arXiv preprint arXiv:2312.15345.</code></b></p>
 
 
