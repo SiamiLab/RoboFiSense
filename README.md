@@ -2,10 +2,6 @@
 The RoboFiSense is a comprehensive dataset bundle that provides Channel State Information (CSI) in the context of a Franka Emika robotic arm's operations. This dataset offers an extensive range of data pertaining to the various movements executed by the robot. In addition, RoboFiSense provides introductory codes that facilitate the reading and analysis of the dataset. Furthermore, it includes the specific codes utilized in the data extraction process. This resource is designed to support and enhance research and development activities in the field of WiFi sensing and robotics.
 
 
-<p  align="center"> <b><code style="color : red">The dataset will become available once the "RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing" gets accepted.</code></b> </p>
-
-
-
 
 https://github.com/SiamiLab/RoboFiSense/assets/22102109/4305f6e2-4143-4499-b160-ef8ffd60b90b
 
@@ -100,10 +96,15 @@ python3 binary_to_complex.py --file <filename.dat> --savecomplex --plot --savepl
 
 ## Extract from our License
 
-Any use of the Software that results in an academic publication or
-other publication which includes a bibliography must include
-citations to the following:
-
-**TODO: To be added**
+In case of using the dataset please cite our paper, ["RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing"]([http://https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92#analyzing-the-csi](https://arxiv.org/abs/2312.15345) "link").
+```
+@article{zandi2024robofisense,
+  title={Robofisense: Attention-based robotic arm activity recognition with wifi sensing},
+  author={Zandi, Rojin and Behzad, Kian and Motamedi, Elaheh and Salehinejad, Hojjat and Siami, Milad},
+  journal={IEEE Journal of Selected Topics in Signal Processing},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 
